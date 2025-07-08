@@ -3,7 +3,7 @@ import React, { useState, useEffect } from "react";
 import TodoList from "./components/TodoList";
 import TodoForm from "./components/TodoForm";
 
-const API_URL = "http://localhost:8080/todos";
+const API_URL = "https://todo-web-3-1jnc.onrender.com/todos";
 
 const FILTERS = {
   all: () => true,

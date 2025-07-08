@@ -1,0 +1,7 @@
+Create a Spring Boot REST controller with endpoints for create, read, update, delete todo items using mySql database
+Create a React frontend that connects to the above Spring Boot backend
+Create a React component to display a list of todos and allow marking them completed
+How do I call my Spring Boot API from React using Axios?
+Add filter buttons in React to show all/completed/active todos
+How to deploy Spring Boot app on Render?
+How to deploy React app on Vercel?

@@ -3,7 +3,7 @@ import React, { useState, useEffect } from "react";
 import TodoList from "./components/TodoList";
 import TodoForm from "./components/TodoForm";
 
-const API_URL = "https://todo-production-9316.up.railway.app/todos";
+const API_URL = "https://todoweb-production.up.railway.app/todos";
 
 const FILTERS = {
   all: () => true,
